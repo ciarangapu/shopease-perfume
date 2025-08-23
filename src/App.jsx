@@ -5,6 +5,8 @@ import Products from './components/Products'
 import Categories from './components/Categories'
 import Offers from './components/Offers'
 import About from './components/About'
+import Contact from './components/Contact'
+import Footer from './components/Footer'
 const App = () => {
   return (
     <div>
@@ -14,6 +16,8 @@ const App = () => {
       <Categories />
       <Offers />
       <About />
+      <Contact />
+      <Footer />
     </div>
   )
 }

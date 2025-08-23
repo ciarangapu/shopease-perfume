@@ -1,5 +1,4 @@
-import product19 from '../assets/Cherry Blossom Perfume.jpg';
-import product20 from '../assets/15 perfumes de mujer infalibles para regalar en Navidad.jpg';
+
 import React, { useEffect, useState } from 'react'
 import product1 from '../assets/57061eea-1259-41bd-b128-a67eac88c4f2.jpg';
 import product2 from '../assets/6feb5c0f-5bbf-4c5b-bde5-8b98ceac7d39.jpg';
@@ -19,6 +18,8 @@ import product15 from '../assets/Would you like to try Dolce & Gabbana_.jpg';
 import product16 from '../assets/❤.jpg';
 import product17 from '../assets/My Way by Giorgio Armani is a Floral fragrance for….jpg';
 import product18 from '../assets/Givenchy Irresistable - Nazar Andriychuk (1).jpg';
+import product19 from '../assets/Cherry Blossom Perfume.jpg';
+import product20 from '../assets/glass rose perfume bottle (1).jpg';
 
 import { FiChevronLeft, FiChevronRight, FiShoppingCart, FiStar, FiHeart } from 'react-icons/fi';
 const Products = () => {
